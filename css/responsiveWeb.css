@@ -1,0 +1,358 @@
+ @media screen and (max-width: 990px) and (min-width: 768px) {
+
+  body{
+	  width:100%;
+  }
+  
+
+  ul.nav.navbar-nav li a {
+    margin-right: 11px;
+    width: 100%;
+}
+
+ 
+ul.nav.navbar-nav {
+    float: left;
+    margin-left: 20%;
+    width: 100%;
+    margin-top: 11px;
+}
+
+
+
+.logo img {
+    margin-top: 19px;
+    width: 94%;
+  
+}
+
+
+.after-mob {
+    margin-top: -10%;
+}
+
+.text-mobile {
+    float: left;
+    margin-top: -55%;
+    color: white;
+    margin-left: 19%;
+    width: 100%;
+}
+
+.last {
+    width: 100%;
+    margin-top: -343px;
+}
+
+
+
+
+
+
+
+
+
+div#bs-example-navbar-collapse-1 {
+    float: left;
+    margin-left: -68px;
+}
+
+
+
+.ss img {
+    margin-top: 19px;
+    width: 94%;
+    margin-left: 8px;
+}
+
+li span {
+    margin-left: 45px;
+}
+
+
+.ss {
+     padding-bottom: 0px; 
+}
+
+
+.cc {
+     padding-bottom: 0px; 
+}
+
+.ee {
+    margin-top: -140px;
+}
+
+.modalDialog > div {
+    width: 547px;
+    position: relative;
+    margin: 10% auto;
+    padding: 5px 20px 13px 20px;
+    /* border-radius: 10px; */
+    background: #fff;
+    background: -moz-linear-gradient(#fff, #999);
+    background: -webkit-linear-gradient(#fff, #fff);
+    background: -o-linear-gradient(#fff, #999);
+    /* padding-bottom: 31%; */
+    margin-top: 100px;
+    height: 70%;
+}
+
+ }
+
+
+
+
+
+
+
+
+ @media screen and (max-width: 767px) and (min-width: 520px) {
+
+  body{
+      width:100%;}
+  
+  
+.text-mobile {
+    float: left;
+    margin-top: -49%;
+    color: white;
+    margin-left: 25%;
+    width: 100%;
+}
+
+
+
+.mobile img {
+    width: 52%;
+    background-size: contain;
+    margin-top: -2%;
+    margin-left: 200px;
+}
+
+
+
+.logo img {
+    margin-top: 19px;
+    width: 24%;
+    margin-left: 1px;
+}
+
+.after-mob {
+    margin-top: 4%;
+    margin-left: 24%;
+    width: 100%;
+}
+
+button.navbar-toggle.collapsed {
+    background: white;
+    color: black;
+}
+
+
+
+span.icon-bar {
+    background: black;
+}
+
+
+.navbar-collapse.in {
+    overflow-y:visible;
+}
+
+
+ul.nav.navbar-nav li a:hover {
+    background: none;
+    color: #b3aeae;
+    width: 100%;
+    float: left;
+    display: block;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: -30px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.main-bg {
+    background: url(../images/Bgpart1.png);
+    width: 100%;
+    padding-bottom: 64%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+
+
+.boxes {
+    background: whitesmoke;
+    padding-bottom: 20px;
+    box-shadow: 0px 0px 8px 1px grey;
+    margin-bottom: 0px;
+    margin-top: 42px;
+    width: 67%;
+    margin-left: 16%;
+}
+li span {
+  
+    float: right;
+    margin-right: 54px;
+}
+
+.modalDialog > div {
+    width: 547px;
+    position: relative;
+    margin: 10% auto;
+    padding: 5px 20px 13px 20px;
+    /* border-radius: 10px; */
+    background: #fff;
+    background: -moz-linear-gradient(#fff, #999);
+    background: -webkit-linear-gradient(#fff, #fff);
+    background: -o-linear-gradient(#fff, #999);
+    /* padding-bottom: 31%; */
+    margin-top: 100px;
+    height: 70%;
+}
+
+
+}
+
+
+
+@media screen and (max-width: 519px) and (min-width: 320px) {
+
+  body{
+      width:100%;}
+
+
+.main-bg {
+    background: url(../images/Bgpart1.png);
+    width: 100%;
+    padding-bottom: 87%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+
+.logo img {
+    margin-top: 19px;
+    width: 30%;
+    margin-left: 1px;
+}
+.after-mob {
+    margin-top: 4%;
+    margin-left: 24%;
+    width: 100%;
+}
+
+button.navbar-toggle.collapsed {
+    background: white;
+    color: black;
+}
+
+
+
+span.icon-bar {
+    background: black;
+}
+
+
+.navbar-collapse.in {
+    overflow-y:visible;
+}
+
+
+ul.nav.navbar-nav li a:hover {
+    background: none;
+    color: #b3aeae;
+    width: 100%;
+    float: left;
+    display: block;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: -30px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+
+.text-mobile {
+    float: left;
+    margin-top: -68%;
+    color: white;
+    margin-left: 19%;
+    width: 100%;
+}
+
+.mobile img {
+    width: 80%;
+    background-size: contain;
+     margin-top: 0%; 
+    margin-left: 14%;
+}
+
+.last {
+    width: 100%;
+}
+
+
+li span {
+    float: right;
+    margin-right: 26px;
+}
+
+.ss {
+     padding-bottom: 0px; 
+}
+
+
+.cc {
+     padding-bottom: 0px; 
+}
+
+.ee {
+    margin-top: -140px;
+}
+
+.modalDialog > div {
+    width: 387px;
+    position: relative;
+    margin: 10% auto;
+    padding: 5px 20px 13px 20px;
+    border-radius: 10px;
+    background: #fff;
+    background: -moz-linear-gradient(#fff, #999);
+    background: -webkit-linear-gradient(#fff, #fff);
+    background: -o-linear-gradient(#fff, #999);
+    /* padding-bottom: 25%; */
+    margin-top: 100px;
+    height: 85%;
+}
+
+.sss {
+    margin-top: -149px;
+}
+
+.ee {
+    margin-top: 5px;
+}
+
+   }
